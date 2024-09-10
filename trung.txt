@@ -1,1 +1,2 @@
-"hello from yourname" 
+"hello from trung" 
+goodbye from trung 
